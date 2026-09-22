@@ -45,7 +45,6 @@ const typeColorUtils: TypeColorUtils = new TypeColorUtils(constant.TYPE)
 .atk-dmg-mult-table {
   max-width: 500px;
   margin: auto;
-  padding: 12px;
 
   .v-row {
     .v-col:first-child {

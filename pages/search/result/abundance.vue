@@ -1075,8 +1075,6 @@ useHead(metaObject)
   }
 }
 .abundance_basic_info_table {
-  padding: inherit;
-
   .row {
     .title {
       background: v-bind(rgb1);
@@ -1087,8 +1085,6 @@ useHead(metaObject)
   }
 }
 .abundance_cp_table {
-  padding: inherit;
-
   .row {
     .title {
       background: v-bind(rgb2);

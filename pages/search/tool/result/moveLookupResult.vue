@@ -885,8 +885,6 @@ useHead(metaObject)
 
 <style lang="scss" module>
 .fast_attack_basic_info_table {
-  padding: inherit;
-
   .row {
     .title {
       background: v-bind(faRgb);
@@ -897,8 +895,6 @@ useHead(metaObject)
   }
 }
 .charged_attack_basic_info_table {
-  padding: inherit;
-
   .row {
     .title {
       background: v-bind(caRgb);
